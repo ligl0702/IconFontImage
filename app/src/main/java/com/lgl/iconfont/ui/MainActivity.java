@@ -1,9 +1,11 @@
-package com.lgl.iconfont;
+package com.lgl.iconfont.ui;
 
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
 import android.view.Menu;
 import android.view.MenuItem;
+
+import com.lgl.iconfont.R;
 
 public class MainActivity extends ActionBarActivity {
 

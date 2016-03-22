@@ -1,4 +1,25 @@
 <resources>
     <string name="app_name">IconFont</string>
     <string name="action_settings">Settings</string>
+    <string name="app_select">&#xe908;</string>
+    <string name="app_select_desc">精选</string>
+    <string name="app_read">&#xe915;</string>
+    <string name="app_read_desc">阅读</string>
+    <string name="app_public">&#xe901;</string>
+    <string name="app_public_desc">发布</string>
+    <string name="app_match">&#xe907;</string>
+    <string name="app_match_desc">大赛</string>
+    <string name="app_me">&#xe900;</string>
+    <string name="app_me_desc">我的</string>
+
+    <string name="top_icon_back">&#xe902;</string>
+    <string name="top_icon_confirm">&#xe905;</string>
+    <string name="icon_more">&#xe90f;</string>
+    <string name="icon_like">&#xe90b;</string>
+    <string name="icon_unlike">&#xe918;</string>
+    <string name="icon_comment">&#xe903;</string>
+    <string name="icon_look">&#xe90d;</string>
+    <string name="top_title">This is my Title</string>
+    <string name="icon_font">iconfonts</string>
+
 </resources>

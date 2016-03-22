@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+        <color name="list_item_title">#fff</color>
+
+    <color name="content_text_color">#717171</color>
+    <color name="list_background">#303030</color>
+    <color name="list_background_pressed">#992416</color>
+    <color name="list_divider">#272727</color>
+    <color name="author_color">#4f5e73</color>
+
+
+    <color name="counter_text_bg">#626262</color>
+
+    <color name="counter_text_color">#c5c4c4</color>
+    <color name="select_text_color">#ff0000</color>
+    <color name="whilte">#ffffff</color>
+
+
+    <color name="transparent">#64000000</color>
+    <color name="list_transparent">#00000000</color>
+    <color name="white">#ffffffff</color>
+    <color name="fans_color">#cacaca</color>
+
+    <color name="white_transparent">#80ffffff</color>
+    <color name="red">#ffff0000</color>
+    <color name="black">#000000</color>
+    <color name="app_bg">#dcdcdc</color>
+    <color name="color_text_common">#5c5c5c</color>
+    <color name="color_choose_dialog_green">#e6e1fe6e</color>
+    <color name="color_gray">#b0b0b0</color>
+    <color name="list_item_color_gray">#f1f1f1</color>
+    <!-- 通用背景颜色 -->
+    <color name="color_background">#fdf7f0</color>
+    <color name="color_dialog_background">#33404040</color>
+    <!-- 通用标题栏 -->
+    <color name="color_title_bar_bg">#FCF5EC</color>
+    <color name="bottom_background">#f7f2ec</color>
+
+
+    <!-- 通用字体颜色 -->
+    <color name="text_color_hottest">#ffffffff</color>
+    <color name="text_one_level_color">#1f1f1f</color>
+    <color name="text_two_level_color">#b0b0b0</color>
+    <color name="text_three_level_color">#999999</color>
+    <color name="text_four_level_color">#e3d4b9</color>
+    <color name="text_choose_dialog">#f46385</color>
+    <color name="text_upload_guid">#f38462</color>
+    <color name="text_color_red">#f38462</color>
+    <color name="text_color_gray_fa">#fafafa</color>
+    <color name="item_yellow_line">#f8ff00</color>
+
+    <color name="guide_sub_color">#3d3d3d</color>
+    <!-- 通用按钮颜色 -->
+    <color name="common_btn_red">#f7674f</color>
+    <color name="common_invite_bg">#33404040</color>
+
+    <!-- 上传进度条 -->
+    <color name="upload_grogress_fail">#ff5757</color>
+    <color name="upload_grogress_gray">#c9c9c9</color>
+    <color name="upload_grogress_green">#2cd690</color>
+    <color name="upload_grogress_send_gray">#e9e9e9</color>
+    <color name="upload_txt_n">#868686</color>
+    <color name="upload_txt_p">#f38462</color>
+    <color name="upload_cover">#ccbcbcbc</color>
+
+    <!-- listview 上下拉 文字颜色 -->
+    <color name="sub_txt_color_yellow">#d9c5ac</color>
+    <color name="sub_txt_color">#b3ffffff</color>
+
+    <!-- 视频颜色相关 -->
+    <color name="color_video_normal">#5c5c5c</color>
+    <color name="color_text_red_focus">#fb5454</color>
+    <color name="color_text_normal_no_focus">#5c5c5c</color>
+
+    <!-- 对话框 -->
+    <color name="common_dialog_bg">#743b6a</color>
+    <color name="common_dialog_title">#e1fe6e</color>
+    <color name="common_dialog_button_p">#44000000</color>
+    <color name="common_dialog_line">@color/color_divide</color>
+
+    <!-- 设置页 -->
+    <color name="setting_item_content">#f7f7f7</color>
+    <color name="setting_item_devide">#dedede</color>
+
+    <!-- 分割线颜色 -->
+    <color name="color_divide">#efe2cd</color>
+
+    <!-- 视频点击 -->
+    <color name="color_selected_item">#fbffec</color>
+    <color name="holo_blue">#FF33E5B5</color>
+    <color name="welcom_bg">#2d2d2d</color>
+    <color name="content_line">#ffeeeeee</color>
+
+    <!-- 联系人界面 -->
+    <color name="actionbar_separator">#000000</color>
+    <color name="actionbar_title">#FFFFFF</color>
+    <color name="actionbar_background_start">#000000</color>
+    <color name="actionbar_background_end">#000000</color>
+    <color name="actionbar_background_item_pressed_start">#000000</color>
+    <color name="actionbar_background_item_pressed_end">#000000</color>
+
+    <!-- ljznew -->
+
+    <color name="edit_left_color">#1F1F1F</color>
+    <color name="edit_right_color">#B0B0B0</color>
+    <color name="edit_past_color">#7C7C7C</color>
+    <color name="edit_line_color">#FDF7F0</color>
+    <color name="edit_back_color">#FDF7F0</color>
+    <drawable name="message_press_color">#F1F1F1</drawable>
+    <drawable name="message_normal_color">#fdf7f0</drawable>
+    <color name="common_divider_color">#e9e9e9</color>
+    <color name="graywhite">#2a2a2a</color>
+    <color name="graybloak">#878787</color>
+    <color name="grayslate">#708090</color>
+    <color name="head_text">#0e5986</color>
+    <color name="author_text">#0e5986</color>
+    <color name="full_transparent">#00000000</color>
+    <color name="half_transparent">#aa000000</color>
+    <color name="gray">#808080</color>
+    <color name="gold">#FFD700</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="green">#008000</color>
+    <color name="blue">#b74ebaf0</color>
+    <color name="purple">#800080</color>
+    <color name="pink">#FFC0CB</color>
+    <color name="lemonyellow">#FFFACD</color>
+    <color name="listitem_transparent">#00000000</color>
+    <color name="listitem_black">#ff000000</color>
+    <color name="listitem_white">#ffffffff</color>
+    <color name="listitem_blue">#0e5986</color>
+    <color name="listitem_gray">#ff9da19e</color>
+    <color name="listitem_green">#ffe3ffc6</color>
+    <color name="listitem_greenyellow">#ff87b869</color>
+    <color name="fff1f2f3">#fff1f2f3</color>
+    <color name="ff40ab54">#ff40ab54</color>
+    <color name="face_bg">#eef1f4</color>
+    <color name="bottom_bar">#F21A1A1A</color>
+
+    <!-- 身高体重 -->
+    <color name="bg_height_weight_pink">#FCF5EC</color>
+
+    <!-- 登录 -->
+    <color name="login_ways_text_color">#cdb497</color>
+    <color name="get_code_text_color">#ffcbc5b9</color>
+
+    <!-- 我的 -->
+    <color name="mine_title_bottom_color">#e9e9e9</color>
+
+    <drawable name="upload_item_bg_p">#f1f1f1</drawable>
+    <drawable name="upload_item_bg_n">#ffffffff</drawable>
+    <drawable name="dr_transparent">#00000000</drawable>
+    <!--设置-->
+    <color name="about_icon_below_color">#d3bf9b</color>
+    <color name="about_text_color">#7c7c7c</color>
+    <color name="feed_item_text_color">#979797</color>
+
+    <!-- 头部颜色 -->
+    <color name="header_color_boy">#a6cfcd</color>
+    <color name="header_color_girl">#ffa180</color>
+
+    <!--意见反馈-->
+
+    <color name="feedback_wechat">#cab48d</color>
+
+    <color name="detail_title">#717171</color>
+
+    <color name="content_text">#6D6D6D</color>
+</resources>
